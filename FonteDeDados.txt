@@ -1,0 +1,6 @@
+codigo@nome@idade
+1@jose@45
+2@maria@23
+3@francisco@56
+4@nataniel@12
+5@marcia@34
